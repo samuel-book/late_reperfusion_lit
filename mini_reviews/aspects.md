@@ -46,17 +46,31 @@ ASPECTS can be assessed using different imaging modalities:
 
 Citations:
 [1] https://pmc.ncbi.nlm.nih.gov/articles/PMC8515558/
+
 [2] https://pubmed.ncbi.nlm.nih.gov/33509915/
+
 [3] https://pmc.ncbi.nlm.nih.gov/articles/PMC5226934/
+
 [4] https://radiogyan.com/aspects-score-calculator/
+
 [5] https://www.nature.com/articles/s41598-023-30242-6
+
 [6] https://www.stroke-manual.com/aspect-score/
+
 [7] https://pmc.ncbi.nlm.nih.gov/articles/PMC7974585/
+
 [8] https://www.ahajournals.org/doi/10.1161/STROKEAHA.117.016745
+
 [9] https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2016.00245/full
+
 [10] https://www.rapidai.com/aspect-score-stroke
+
 [11] https://www.nnuh.nhs.uk/publication/download/alberta-stroke-program-early-ct-score-aspects-score-form-v2/
+
 [12] https://radiopaedia.org/articles/alberta-stroke-programme-early-ct-score-aspects?lang=gb
+
 [13] https://www.stroke.org/en/about-stroke/effects-of-stroke
+
 [14] https://www.mayoclinic.org/diseases-conditions/stroke/symptoms-causes/syc-20350113
+
 [15] https://www.hopkinsmedicine.org/health/conditions-and-diseases/stroke/effects-of-stroke
