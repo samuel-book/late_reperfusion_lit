@@ -1,0 +1,28 @@
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+
+title: Reperfusion in late-presenting stroke
+author: The SAMueL Team
+logo: logo.png
+
+#only build files specified in table of contents file
+only_build_toc_files: true
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: 'off' # force
+
+# Define the name of the latex output file for PDF builds
+latex:
+  latex_documents:
+    targetname: book.tex
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/samuel-book/causal_inference_notebook  # Online location of your book
+
+# pip install sphinxcontrib-mermaid
+sphinx:
+  extra_extensions:
+    - sphinxcontrib.mermaid
