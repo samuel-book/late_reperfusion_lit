@@ -44,7 +44,8 @@ ASPECTS can be assessed using different imaging modalities:
 - CT perfusion
 - CTA source images[6]
 
-Citations:
+## Citations
+
 [1] https://pmc.ncbi.nlm.nih.gov/articles/PMC8515558/
 
 [2] https://pubmed.ncbi.nlm.nih.gov/33509915/
