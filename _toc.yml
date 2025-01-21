@@ -9,4 +9,5 @@ parts:
   - file: glossary.md
 - caption: Mini reviews
   chapters:
+  - file: mini_reviews/large_core.md
   - file: mini_reviews/aspects.md
