@@ -26,7 +26,7 @@ A large-core ischemic stroke occurs when there is a significant blockage in bloo
 **Endovascular Thrombectomy (EVT)**
 - Recent evidence supports the use of EVT for large-core strokes [4]
 - Most effective for core volumes between 70-100 mL [2]
-- Can double the rate of good functional outcomes compared to medical management alone[7]
+- Can double the rate of good functional outcomes compared to medical management alone [7]
 
 ## Outcomes
 
