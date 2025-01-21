@@ -1,4 +1,4 @@
-# What is large core ischaemic stroke
+# What is large core ischaemic stroke?
 
 A large-core ischemic stroke occurs when there is a significant blockage in blood supply to a large area of the brain, resulting in extensive brain tissue death. This condition is specifically characterized by:
 
