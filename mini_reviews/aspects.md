@@ -1,6 +1,6 @@
 # ASPECTS (Alberta Stroke Program Early CT Score) 
 
-ASPECTS (Alberta Stroke Program Early CT Score) is a 10-point quantitative scoring system used to assess early ischemic changes in stroke patients[1][4]. 
+ASPECTS (Alberta Stroke Program Early CT Score) is a 10-point quantitative scoring system used to assess early ischemic changes in stroke patients [1][4]. 
 
 ## Key Components
 - Initial score starts at 10 (normal) and points are deducted for each affected region
@@ -10,25 +10,25 @@ ASPECTS (Alberta Stroke Program Early CT Score) is a 10-point quantitative scori
 - Caudate nucleus
 - Lentiform nucleus 
 - Internal capsule
-- Insular cortex[6]
+- Insular cortex [6]
 
 **Cortical Regions (M1-M6)**
 - M1: Anterior MCA cortex (frontal operculum)
 - M2: MCA cortex lateral to insular ribbon
 - M3: Posterior MCA cortex
-- M4-M6: Superior territories[1]
+- M4-M6: Superior territories [1]
 
 ## Clinical Significance
 
 The score serves multiple important purposes:
 - Predicts functional outcomes in stroke patients
 - Guides treatment decisions for mechanical thrombectomy
-- Helps assess eligibility for interventional treatments[3]
+- Helps assess eligibility for interventional treatments [3]
 
 **Key Thresholds:**
 - ASPECTS ≥8: Higher chance for independent outcome
 - ASPECTS ≤7: Predicts worse functional outcome at 3 months
-- ASPECTS ≤4: Poor response to intravascular treatment[4]
+- ASPECTS ≤4: Poor response to intravascular treatment [4]
 
 ## Variations
 
@@ -37,12 +37,12 @@ The score serves multiple important purposes:
 - Midbrain (2 points)
 - Pons (2 points)
 - Cerebellar hemispheres (1 point each)
-- Occipital lobes (1 point each)[1]
+- Occipital lobes (1 point each) [1]
 
 ASPECTS can be assessed using different imaging modalities:
 - Non-contrast CT
 - CT perfusion
-- CTA source images[6]
+- CTA source images [6]
 
 ## Citations
 
