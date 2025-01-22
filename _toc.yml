@@ -11,3 +11,4 @@ parts:
   chapters:
   - file: mini_reviews/large_core.md
   - file: mini_reviews/aspects.md
+  - file: mini_reviews/late_presenting_trials.md
