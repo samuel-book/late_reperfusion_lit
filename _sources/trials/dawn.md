@@ -14,6 +14,17 @@
 
 * Patients were randomly assigned to thrombectomy plus standard care (the thrombectomy group) or to standard care alone (the control group).
 
+### Key inclusion criteria
+
+* IVT is contra-indicated or has failed (confirmed persistent occlusion 60 min after administration)
+
+* NIHSS >= 10
+
+* Pre-stroke disability 0-1
+
+* Excludes severe sustained hypertension (Systolic Blood Pressure >185 mmHg or Diastolic Blood Pressure >110 mmHg)
+
+
 ![](images/dawn_inclusion_criteria.jpg)
 
 ![](images/dawn_01.png)
@@ -60,6 +71,10 @@ No significant differences in efficacy (change in utility-weighted mRS) were obs
 No significant differences in efficacy (change in utility-weighted mRS) were observed in other subgroups.
 
 ![](images/dawn_04.png)
+
+Additional results on independent living mRS 0-2
+
+![](images/dawn_05.png)
 
 ## Citations
 
