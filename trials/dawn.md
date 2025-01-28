@@ -3,6 +3,7 @@
 ## Papers
 
 [1] Key results
+[2] Relationship between 24 hour ASPECTS, outcome, and thrombectomy
 
 ## Study population
 
