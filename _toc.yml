@@ -7,6 +7,9 @@ parts:
 - caption: Chapters
   chapters:
   - file: glossary.md
+- caption: Trials
+  chapters:
+  - file: trials/dawn.md
 - caption: Mini reviews
   chapters:
   - file: mini_reviews/large_core.md
