@@ -1,22 +1,37 @@
 # ASPECTS (Alberta Stroke Program Early CT Score) 
 
-ASPECTS (Alberta Stroke Program Early CT Score) is a 10-point quantitative scoring system used to assess early ischemic changes in stroke patients [1][4]. 
+See also https://www.stroke-manual.com/aspect-score/
+
+ASPECTS (Alberta Stroke Program Early CT Score) is a 10-point quantitative scoring system used to assess early ischemic changes in stroke patients [1][4]. These early changes are taken as indicative that that area is likely unsalvageable.
+
+ASPETCS may be measured by:
+
+* non-contrast CT (NCCT)
+* CT perfusion (CTP)
+* CTA source images (CTA-SI) 
 
 ## Key Components
+
 - Initial score starts at 10 (normal) and points are deducted for each affected region
 - Evaluates specific regions in the middle cerebral artery (MCA) territory:
   
 **Subcortical Structures**
+
 - Caudate nucleus
 - Lentiform nucleus 
 - Internal capsule
 - Insular cortex [6]
 
 **Cortical Regions (M1-M6)**
+
 - M1: Anterior MCA cortex (frontal operculum)
 - M2: MCA cortex lateral to insular ribbon
 - M3: Posterior MCA cortex
 - M4-M6: Superior territories [1]
+
+## Map of regions
+
+![](./images/aspects.png)
 
 ## Clinical Significance
 
@@ -104,15 +119,26 @@ While ASPECTS identifies early changes, it's important to understand that in acu
 
 Therefore, ASPECTS helps identify early tissue changes that may indicate irreversible damage, rather than just areas of compromised blood supply.
 
-Citations:
+## Citations:
+
 [1] https://pmc.ncbi.nlm.nih.gov/articles/PMC7974585/
+
 [2] https://www.ahajournals.org/doi/10.1161/STROKEAHA.117.016745
+
 [3] https://www.nature.com/articles/s41598-023-30242-6
+
 [4] https://www.stroke-manual.com/aspect-score/
+
 [5] https://pubmed.ncbi.nlm.nih.gov/28127292/
+
 [6] https://radiogyan.com/aspects-score-calculator/
+
 [7] https://www.physio-pedia.com/Stroke:_Assessment
+
 [8] https://emedicine.medscape.com/article/1916852-overview
+
 [9] https://www.ncbi.nlm.nih.gov/books/NBK499997/
+
 [10] https://www.ncbi.nlm.nih.gov/books/NBK546635/
+
 [11] https://www.ebmedicine.net/media_library/files/Acute-Stroke-Imaging-CRAO-Calculator.pdf
