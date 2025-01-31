@@ -4,6 +4,8 @@
 
 [1] Key results
 [2] Relationship between 24 hour ASPECTS, outcome, and thrombectomy
+[3] Relationship between onset type, time to treatment, and outcome
+[4] Comparison of early and late thrombectomy
 
 ## Study population
 
@@ -91,9 +93,28 @@ The DAWN trial was designed to select patients with smaller core volume, and thi
 
 ![](images/dawn_06.png)
 
+## Mode of onset
+
+Nogueira et al. [3] investigated time from onset-to-treatment and the effect of onset type on outcomes. When onset types were combined there was no relationship between onset-to-treatment time and outcome. However, there as an interaction between onset-to-treatment time and onset type wrt outcome. Noteably, wake-up stroke patients successfully treated with EVT showed a signiﬁcant decline in the probability of functional independence over time, whereas outcomes in
+those with witnessed and unwitnessed strokes were not impacted by time from stroke onset to either treatment initiation or reperfusion.
+
+## Comparison of early and late thrombectomy
+
+Nogueira et al. [4] compared early and late thrombectomy, using a multicentric prospective registry analysis, and using a 'DAWN-like' cohort for late thrombectomy. The impact of time to thrombectomy on outcomes appears to be time dependent with a steep influence in the early followed by a less significant plateau in the extended window (when patients are selected). Early-window patients had significantly lower 90-day functional disability (aOR, mRS shift: 1.533) and a trend towards higher rates of good outcomes (aOR, mRS 0–2: 1.391).
+
+Patient cohort: The Trevo Retriever Registry (ClinicalTrials.gov identifier: NCT02040259) was an international, multicenter, prospective, open-label, registry of patients who underwent MT for LVOS with the Trevo stent-retriever (Stryker, Fremont, CA) as first-line therapy. The registry recruited a total of 2008 patients at 76 sites across 12 countries between 11 November 2013 and 1 May 2017. Pretreatment imaging and other entry criteria were based on local institutional protocols. The protocol was amended on 26 March 2015 to include an imaging core lab which was then used for central adjudication in 1599 of the 2008 patients.
+
+![](images/trevo.jpeg)
+
+"The current analysis also provides important insights on the proportions of patients that are candidates for MT in the late window. Over one-quarter (430/1603; 26.8%) of all anterior circulation LVOS patients were treated in the 6–24 h window. A similar proportion was seen in the NASA/ TRACK retrospective dataset (271/830; 32.7%). Notably, both studies predated the publications of the DAWN and DEFUSE 3 trials. As such, it is possible that some of their participating centers were not yet aggressively pursuing treatment beyond 6 h and, therefore, this could represent a conservative estimate. On the other hand, as centers participating in clinical research tend to be tertiary referral centers which are known to be enriched with transferred patients and consequently delayed treatment, this could equally represent an overestimation."
+
 ## Citations
 
 [1] Nogueira et al. (2018) Thrombectomy 6 to 24 Hours after Stroke with a Mismatch
 between Deficit and Infarct. New Eng J Med. 378:11-21.
 
 [2] Liebeskind et al. (2021) Serial ASPECTS in the DAWN Trial. Infarct Evolution and Clinical Impact. Stroke 52:3318–3324.
+
+[3] Nogueira et al. (2024) Mode of Onset Modiﬁes the Effect of Time to Endovascular Reperfusion on Clinical Outcomes after Acute Ischemic .Stroke: An Analysis of the DAWN Trial. Ann Neurol 96:356–364
+
+[4] Nogueira et al. (2021) Influence of time to endovascular stroke treatment on outcomes in the early versus extended window paradigms. Int J Stroke 17:331-340
