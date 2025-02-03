@@ -2,7 +2,8 @@
 
 ## Papers
 
-[1] Main results
+[1] Main results of treated population by reperfusion state
+
 [2] Protocol
 
 ## Patient selection
@@ -40,11 +41,10 @@ Improved modified rankin scale was associated with greater levels of reperfusion
 
 
 
-
-
 ## Citations
 
 [1] Marks et al. (2018) Endovascular Treatment in the DEFUSE 3 Study. Stroke 49:2000-2003
+
 [2] Albers et al. (2017) A multicenter randomized controlled trial of endovascular therapy following imaging evaluation for ischemic stroke (DEFUSE 3). Int J Stroke 12:896-905
 
 
