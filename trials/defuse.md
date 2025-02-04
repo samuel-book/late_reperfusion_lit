@@ -8,6 +8,8 @@
 
 [3] Main results of control vs treated
 
+[4] Substudy on collateral blood supply
+
 ## Patient selection
 
 * The trial focused on patients with acute a large vessel ischemic stroke caused by a blockage in the internal carotid artery (ICA) or middle cerebral artery (MCA).
@@ -61,8 +63,22 @@ Paper [1] describes results for treated patients according to level of reperfusi
 Improved modified rankin scale was associated with greater levels of reperfusion.
 
 ![](./images/defuse_04.png)
+
 ![](./images/defuse_03.png)
 
+### Effect of collateral blood supply 
+
+Paper [4] describes relationship between collateral blood supply, core volume, and outcome.
+
+75% of patients were considered to have good collateral blood supply, and 25% poor collateral blood supply.
+
+Good collaterals were associated with significantly smaller ischemic core volume and less ischemic core growth. The difference in the treatment effect of endovascular thrombectomy was not significant (P=0.8).
+
+In DEFUSE 3 patients, good leptomeningeal collaterals on single phase computed tomography angiography were not predictive of functional independence or death and did not impact the treatment effect of endovascular thrombectomy. These unexpected findings require further study to confirm their validity and to better understand the role of collaterals for stroke patients with anterior circulation large vessel occlusion in the late therapeutic window.
+
+![](./images/defuse_10.png)
+
+![](./images/defuse_11.png)
 
 ## Citations
 
@@ -71,5 +87,7 @@ Improved modified rankin scale was associated with greater levels of reperfusion
 [2] Albers et al. (2017) A multicenter randomized controlled trial of endovascular therapy following imaging evaluation for ischemic stroke (DEFUSE 3). Int J Stroke 12:896-905
 
 [3] Albers et al. (2018) Thrombectomy for Stroke at 6 to 16 Hours with Selection by Perfusion Imaging. New Eng J Med 378:708-18.
+
+[4] de Havenon et al (2019) Results From DEFUSE 3: Good Collaterals Are Associated With Reduced Ischemic Core Growth but Not Neurologic Outcome. Stroke. 50:632-638
 
 
