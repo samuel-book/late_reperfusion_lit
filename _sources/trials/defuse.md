@@ -10,6 +10,8 @@
 
 [4] Substudy on collateral blood supply
 
+[5] Subgroup analysis
+
 ## Patient selection
 
 * The trial focused on patients with acute a large vessel ischemic stroke caused by a blockage in the internal carotid artery (ICA) or middle cerebral artery (MCA).
@@ -45,7 +47,7 @@ Thrombectomy improved the proportion patients mRS 0-2 from 17% to 45% (odds rati
 
 ![](./images/defuse_07.png)
 
-Subgroup analysis was limited by the trial being stopped early, but results for recruited patients showed no significant herterogeneity of effect.
+Subgroup analysis was limited by the trial being stopped early, but results for recruited patients showed no significant herterogeneity of effect (see also paper [5]).
 
 ![](./images/defuse_09.png)
 
@@ -89,5 +91,7 @@ In DEFUSE 3 patients, good leptomeningeal collaterals on single phase computed t
 [3] Albers et al. (2018) Thrombectomy for Stroke at 6 to 16 Hours with Selection by Perfusion Imaging. New Eng J Med 378:708-18.
 
 [4] de Havenon et al (2019) Results From DEFUSE 3: Good Collaterals Are Associated With Reduced Ischemic Core Growth but Not Neurologic Outcome. Stroke. 50:632-638
+
+[5] Lansberg et al (2019) Association of Thrombectomy With Stroke Outcomes Among Patient Subgroups: Secondary Analyses of the DEFUSE 3 Randomized Clinical Trial. JAMA Neurol. 76(4):447-453.
 
 
