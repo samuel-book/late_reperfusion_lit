@@ -33,6 +33,8 @@ An example of a selected patient is shown below:
 
 ## Key results
 
+### Main trial results
+
 Paper [3] describes key results.
 
 Thrombectomy improved the proportion patients mRS 0-2 from 17% to 45% (odds ratio 4.0). There was a favourable shift (odds ratio 2.8) of improved mRS with thrombectomy. Mortality was reduced from 26% to 14%.
@@ -41,6 +43,11 @@ Thrombectomy improved the proportion patients mRS 0-2 from 17% to 45% (odds rati
 
 ![](./images/defuse_07.png)
 
+Subgroup analysis was limited by the trial being stopped early, but results for recruited patients showed no significant herterogeneity of effect.
+
+![](./images/defuse_09.png)
+
+### Relationship of outcome with degree of reperfusion achieved
 
 Paper [1] describes results for treated patients according to level of reperfusion achieved.
 
@@ -55,7 +62,6 @@ Improved modified rankin scale was associated with greater levels of reperfusion
 
 ![](./images/defuse_04.png)
 ![](./images/defuse_03.png)
-
 
 
 ## Citations
