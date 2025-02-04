@@ -6,6 +6,8 @@
 
 [2] Protocol
 
+[3] Main results of control vs treated
+
 ## Patient selection
 
 * The trial focused on patients with acute a large vessel ischemic stroke caused by a blockage in the internal carotid artery (ICA) or middle cerebral artery (MCA).
@@ -24,6 +26,10 @@
 * Exclude ASPECTS < 6
 
 ## Key results
+
+Paper [3] describes key results.
+
+Thrombectomy improved the proportion patients mRS 0-2 from 17% to 45% (odds ratio 4.0).
 
 Paper [1] describes results for treated patients according to level of reperfusion achieved.
 
@@ -46,5 +52,7 @@ Improved modified rankin scale was associated with greater levels of reperfusion
 [1] Marks et al. (2018) Endovascular Treatment in the DEFUSE 3 Study. Stroke 49:2000-2003
 
 [2] Albers et al. (2017) A multicenter randomized controlled trial of endovascular therapy following imaging evaluation for ischemic stroke (DEFUSE 3). Int J Stroke 12:896-905
+
+[3] Albers et al. (2018) Thrombectomy for Stroke at 6 to 16 Hours with Selection by Perfusion Imaging. New Eng J Med 378:708-18.
 
 
