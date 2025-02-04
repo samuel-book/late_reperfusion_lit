@@ -76,7 +76,7 @@ Paper [4] describes relationship between collateral blood supply, core volume, a
 
 Good collaterals were associated with significantly smaller ischemic core volume and less ischemic core growth. The difference in the treatment effect of endovascular thrombectomy was not significant (P=0.8).
 
-In DEFUSE 3 patients, good leptomeningeal collaterals on single phase computed tomography angiography were not predictive of functional independence or death and did not impact the treatment effect of endovascular thrombectomy. These unexpected findings require further study to confirm their validity and to better understand the role of collaterals for stroke patients with anterior circulation large vessel occlusion in the late therapeutic window.
+> 'In DEFUSE 3 patients, good leptomeningeal collaterals on single phase computed tomography angiography were not predictive of functional independence or death and did not impact the treatment effect of endovascular thrombectomy. These unexpected findings require further study to confirm their validity and to better understand the role of collaterals for stroke patients with anterior circulation large vessel occlusion in the late therapeutic window.'
 
 ![](./images/defuse_10.png)
 
