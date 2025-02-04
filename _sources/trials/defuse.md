@@ -25,7 +25,7 @@
 
 * Exclude ASPECTS < 6
 
-![](./images/defuse_0.png)
+![](./images/defuse_08.png)
 
 An example of a selected patient is shown below:
 
