@@ -3,8 +3,11 @@
 ## Papers
 
 [1] Key results
+
 [2] Relationship between 24 hour ASPECTS, outcome, and thrombectomy
+
 [3] Relationship between onset type, time to treatment, and outcome
+
 [4] Comparison of early and late thrombectomy
 
 ## Study population
