@@ -58,6 +58,3 @@ Collation of literature on late-presenting stroke. Copies of papers may be found
 |--------------|------|------|------|------|------|------|
 | Thrombectomy | 1.67 | 3.47 | 5.17 | 3.55 | 2.10 | 1.40 |
 
-
-```{tableofcontents}
-```
