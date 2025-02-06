@@ -74,6 +74,10 @@ No significant differences in efficacy (change in utility-weighted mRS) were obs
 
 ![](images/dawn_03.png)
 
+Death rates are given in safety results.
+
+![](images/dawn_08.png)
+
 No significant differences in efficacy (change in utility-weighted mRS) were observed in other subgroups.
 
 ![](images/dawn_04.png)
